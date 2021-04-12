@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\bin\Debug\LINQ_OrderingOperator.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\bin\Debug\LINQ_OrderingOperator.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\bin\Debug\LINQ_OrderingOperator.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\obj\Debug\LINQ_OrderingOperator.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\obj\Debug\LINQ_OrderingOperator.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\obj\Debug\LINQ_OrderingOperator.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_OrderingOperator\obj\Debug\LINQ_OrderingOperator.pdb

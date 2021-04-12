@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\bin\Debug\LINQ_Partioning.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\bin\Debug\LINQ_Partioning.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\bin\Debug\LINQ_Partioning.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\obj\Debug\LINQ_Partioning.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\obj\Debug\LINQ_Partioning.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\obj\Debug\LINQ_Partioning.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Partioning\obj\Debug\LINQ_Partioning.pdb

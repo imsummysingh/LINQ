@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\bin\Debug\LINQ_ConversionOperator.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\bin\Debug\LINQ_ConversionOperator.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\bin\Debug\LINQ_ConversionOperator.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\obj\Debug\LINQ_ConversionOperator.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\obj\Debug\LINQ_ConversionOperator.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_ConversionOperator\obj\Debug\LINQ_ConversionOperator.pdb

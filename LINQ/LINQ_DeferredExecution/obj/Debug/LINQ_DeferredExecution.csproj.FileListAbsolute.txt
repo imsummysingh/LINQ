@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\bin\Debug\LINQ_DeferredExecution.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\bin\Debug\LINQ_DeferredExecution.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\bin\Debug\LINQ_DeferredExecution.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\obj\Debug\LINQ_DeferredExecution.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\obj\Debug\LINQ_DeferredExecution.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_DeferredExecution\obj\Debug\LINQ_DeferredExecution.pdb
