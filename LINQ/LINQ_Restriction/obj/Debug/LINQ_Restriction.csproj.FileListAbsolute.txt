@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\bin\Debug\LINQ_Restriction.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\bin\Debug\LINQ_Restriction.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\bin\Debug\LINQ_Restriction.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\obj\Debug\LINQ_Restriction.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\obj\Debug\LINQ_Restriction.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Restriction\obj\Debug\LINQ_Restriction.pdb

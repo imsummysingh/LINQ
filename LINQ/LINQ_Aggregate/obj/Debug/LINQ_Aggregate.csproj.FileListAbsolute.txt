@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\bin\Debug\LINQ_Aggregate.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\bin\Debug\LINQ_Aggregate.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\bin\Debug\LINQ_Aggregate.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\obj\Debug\LINQ_Aggregate.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\obj\Debug\LINQ_Aggregate.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\obj\Debug\LINQ_Aggregate.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_Aggregate\obj\Debug\LINQ_Aggregate.pdb

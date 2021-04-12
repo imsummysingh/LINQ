@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\bin\Debug\LINQ_SelectMany.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\bin\Debug\LINQ_SelectMany.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\bin\Debug\LINQ_SelectMany.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\obj\Debug\LINQ_SelectMany.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\obj\Debug\LINQ_SelectMany.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_SelectMany\obj\Debug\LINQ_SelectMany.pdb
