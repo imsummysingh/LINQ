@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\bin\Debug\LINQ_InnerJoin.exe.config
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\bin\Debug\LINQ_InnerJoin.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\bin\Debug\LINQ_InnerJoin.pdb
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\obj\Debug\LINQ_InnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\obj\Debug\LINQ_InnerJoin.exe
+C:\Users\ssingh687\source\repos\LINQ\LINQ\LINQ_InnerJoin\obj\Debug\LINQ_InnerJoin.pdb

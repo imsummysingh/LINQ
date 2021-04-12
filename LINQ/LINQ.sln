@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_ConversionOperator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_GroupBy", "LINQ_GroupBy\LINQ_GroupBy.csproj", "{6D766BEC-34FE-4459-B2BD-2FB488AF00CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_GroupJoin", "LINQ_GroupJoin\LINQ_GroupJoin.csproj", "{F785EB36-A6EB-490E-BC24-1AD41D0B7649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_InnerJoin", "LINQ_InnerJoin\LINQ_InnerJoin.csproj", "{0F95CB8C-4647-4DE3-B32A-C3540B4B388E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{6D766BEC-34FE-4459-B2BD-2FB488AF00CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D766BEC-34FE-4459-B2BD-2FB488AF00CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D766BEC-34FE-4459-B2BD-2FB488AF00CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F785EB36-A6EB-490E-BC24-1AD41D0B7649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F785EB36-A6EB-490E-BC24-1AD41D0B7649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F785EB36-A6EB-490E-BC24-1AD41D0B7649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F785EB36-A6EB-490E-BC24-1AD41D0B7649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F95CB8C-4647-4DE3-B32A-C3540B4B388E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F95CB8C-4647-4DE3-B32A-C3540B4B388E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F95CB8C-4647-4DE3-B32A-C3540B4B388E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F95CB8C-4647-4DE3-B32A-C3540B4B388E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
